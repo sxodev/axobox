@@ -22,11 +22,11 @@ export class ColorConfig {
 					--playhead: rgba(255, 255, 255, 0.9);
 					--secondary-text: #84859a;
 					--box-selection-fill: #044b94;
-					--ui-widget-background: #484e63;
-					--ui-widget-focus: #6d6886;
+					--ui-widget-background: #2a3045;
+					--ui-widget-focus: #4f4a68;
 					--pitch-background: #3c5773;
 					--tonic: #453e80;
-					--fifth-note: #54547a;
+					--fifth-note: #545498;
 					--white-piano-key: #eee;
 					--black-piano-key: #666;
 					--use-color-formula: true;
@@ -40,7 +40,7 @@ export class ColorConfig {
 					--overwriting-mod-slider: #6850b5;
 					--indicator-primary: #1E90FF;
 					--indicator-secondary: #1560BD;
-					--select2-opt-group: #5d576f;
+					--select2-opt-group: #3f3951;
 					--input-box-outline: #222;
 					--mute-button-normal: #dda85d;
 					--mute-button-mod: #886eae;
