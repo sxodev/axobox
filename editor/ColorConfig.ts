@@ -5890,7 +5890,7 @@ export class ColorConfig {
 
     public static setTheme(name: string): void {
 		let theme: string = this.themes[name];
-		if (theme == undefined) theme = this.themes["dark classic"];
+		if (theme == undefined) theme = this.themes["axobox"];
 		this._styleElement.textContent = theme;
 
 		// for getComputed
