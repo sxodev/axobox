@@ -1,5 +1,5 @@
 
-const cacheName = "UltraBox";
+const cacheName = "AxoBox";
 
 self.addEventListener("install", function(event) {
 	event.waitUntil(
