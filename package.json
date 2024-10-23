@@ -1,17 +1,18 @@
 {
-	"name": "UltraBox",
-	"version": "2.2.11",
-	"description": "UltraBox is a mod of BeepBox that aims to combine every other beepmod into one.",
+	"name": "AxoBox",
+	"version": "1",
+	"description": "AxoBox is a mod of BeepBox.",
 	"author": "Main",
 	"contributors": [
 		"Neputendo",
 		"LeoV",
 		"Mid",
 		"Choptop84",
-		"Slarmoo"
+		"Slarmoo",
+		"sxodev"
 	],
 	"license": "MIT",
-	"homepage": "https://ultraabox.github.io",
+	"homepage": "https://sxomus.neocities.org/axobox",
 	"type": "module",
 	"scripts": {
 		"build": "npm run build-synth && npm run build-player && npm run build-editor",
